@@ -10,7 +10,7 @@ import java.util.List;
 
 public class ContatoDao {
 	
-	// a conexão com o banco de dados
+	// a conexão com o banco de dados teste
 	private Connection connection;
 	
 	public ContatoDao() {
